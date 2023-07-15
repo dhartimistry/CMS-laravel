@@ -1,5 +1,5 @@
 
 ## CMS Laravel
 
-The Customer Management App application designed in Laravel manage their customer information.
+The Customer Management App designed in Laravel manage their customer information.
 
